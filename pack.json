@@ -1,0 +1,10 @@
+{
+  "name": "Lagoon City Zone Act 2",
+  "description": "A masterpiece by SEGA in the Sonic Superstars game.",
+  "author": "ShyGunSpy",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true, "C:\Users\bmwen\Downloads\menu_music.aup3"
+  "ignore": [],
+  "mappings": {}
+}
